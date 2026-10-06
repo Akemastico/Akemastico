@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Akemastico">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Ol%C3%A1!%20Me%20Chamo%20Nadil%20!" alt="Olá! Me Chamo Nadil !" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Ol%C3%A1!%20Me%20Chamo%20Nadil%20!" alt="Nadil Nunes / Akemistico" />
   </a>
 </p>
 
@@ -10,12 +10,11 @@
 
 ### 🚀 About Me
 
-Desenvolvedor afim de boas práticas, desenvolvimento rápido e sempre curioso para experimentar coisas novas,  faço de tudo um pouco e nada nunca será suficiente!
+Desenvolvedor de aplicações web. Apaixonado por ideias e django!  
 
-🔭 &nbsp;I'm currently working on **Estudos**  
-🌱 &nbsp;I'm currently learning **Django,FastAPI,Machine Learning and Automations**  
-👯 &nbsp;I'm looking to collaborate on **Qualquer Ajuda Com Estudos!**  
-⚡ &nbsp;Fun fact: **Eu sou Proplayer de Minecraft**
+🔭 &nbsp;**Oque mais faço atualmente** : Estudos em geral!   
+🌱 &nbsp;**Meus focos** : Apesar de brincar com redes neurais, estou me interessando muito por automações empresariais(por algum motivo)   
+⚡ &nbsp;**Fato "interessante"**: Eu sou Proplayer de Minecraft
 
 ### 🛠️ Tech Stack
 
